@@ -1123,3 +1123,11 @@ section {
   display: flex;
   align-items: center;
 }
+.c-highlights{
+  display: flex;
+  margin-left: 120px;
+}
+.skills1{
+  width: 900px;
+  color: black;
+}
